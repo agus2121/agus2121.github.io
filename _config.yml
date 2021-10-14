@@ -1,5 +1,5 @@
 title: Muhamad Agus Kurniawan # your name (or website title) here
-logo: <img src="/images/Foto_Fix.jpg?raw=true" width="170" height="300"> # your photo (or logo) here
+logo: <img src="images/Foto_Fix.jpg?raw=true" width="170" height="300"> # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br></br>
@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://github.com/agus2121"><img src="images/github.png?raw=true" width="50" height="50"></a>
   <a href="https://www.linkedin.com/in/muhamad-agus-kurniawan-921900155/"><img src="images/linkedin1.png?raw=true" width="50" height="50"></a>
   <a href="https://public.tableau.com/app/profile/muhamad.agus.kurniawan"><img src="images/tableau1.png?raw=true" width="50" height="50"></a> 
-  <a href="https://muhamadagus2120.medium.com/"><img src="images/medium.png?raw=true" width="50" height="50"></a> 
+  <a href="https://muhamadagus2120.medium.com/"><img src="images/medium1.png?raw=true" width="50" height="50"></a> 
   
   
 theme: jekyll-theme-minimal
