@@ -26,7 +26,12 @@
 ---
 <p style="font-size:20px"><a href="https://github.com/agus2121/Text-Classification---hotel-reviews"> Text Classification -- Hotel Review</a></p>
 <p style="font-size:15px">Melakukan Klasifikasi teks berdasarkan ulasan pelanggan terkait penginapan. Klasifikasi dilakukan untuk menentukan sentimen atau penilaian pelanggan tersebut memiliki makna yang positif atau negatif</p>
-<img src="images/wordcluod_after processing.jpg?raw=True">
+<img src="images/wordcloud_after processing.jpg?raw=True">
+
+---
+<p style="font-size:20px"><a href="https://github.com/agus2121/Clustering--PPKM-Tweet"> Text Clustering -- PPKM Tweet</a></p>
+<p style="font-size:15px">Melakukan klustering atau pengelompokan data terhadap tweet terkait PPKM. Tujuannya untuk mengetahui bagaimana gambaran besar opini masyarakat terhadap PPKM. 
+<img src="images/ppkm.jpg?raw=True>
 
 
 
