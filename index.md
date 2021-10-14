@@ -2,7 +2,7 @@
 
 ---
 
-### Data Visualization (Tableau)
+## Data Visualization (Tableau)
 
 [Covid-19 in Indonesia](https://public.tableau.com/app/profile/muhamad.agus.kurniawan/viz/Book1_16160296143110/Dashboard1)
 <img src="images/indonesian_covid.png?raw=true"/>
@@ -12,16 +12,16 @@
 <img src="images/indonesia_crops.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/covid_vaccination progress.png?raw=true""/>
+[Project 3 Title](https://public.tableau.com/app/profile/muhamad.agus.kurniawan/viz/Book1_16160296143110/Dashboard1)
+<img src="images/covid_vaccination progress.png?raw=true"/>
 
 ---
 
-### Category Name 2
+## Category Name 2
 
 - [Project 1 Title](http://example.com/)
-   
-                               efrfrfrfrf                                                       
+  
+  ### asd                                                     
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
