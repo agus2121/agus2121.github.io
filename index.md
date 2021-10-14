@@ -20,8 +20,8 @@
 
 <h2>Data Analysis<h2>
 
-- <p style="font-size:17px"><a href="https://github.com/agus2121/Covid-Analysis-in-Java"> Covid-19 Visualization in Java</a></p>
-  <p style="font-size:13px"> Melakukan eksplorasi dan visualisasi Data terkait perkeembangan COvid 19 di Pulau Jawa. Membubat beberapa visualisasi yang menggambarkan perkembangan kasus baru, jumlah kasus meninggal dan jumlah orah yang sembuh. Data yang saya gunakan dimulai Maret hingga Oktober 2020.
+<p style="font-size:17px"><a href="https://github.com/agus2121/Covid-Analysis-in-Java"> Covid-19 Visualization in Java</a></p>
+<p style="font-size:12px";"font-weight:normal";"text-align:justify">Melakukan eksplorasi dan visualisasi Data terkait perkeembangan COvid 19 di Pulau Jawa. Membubat beberapa visualisasi yang menggambarkan perkembangan kasus baru, jumlah kasus meninggal dan jumlah orah yang sembuh. Data yang saya gunakan dimulai Maret hingga Oktober 2020.
   <img src="images/perkembangan pasien sembuh.jpeg?raw=True">
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
