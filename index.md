@@ -5,11 +5,11 @@
 ## Data Visualization (Tableau)
 
 
-<p style="font-size:17px"><a href="https://public.tableau.com/app/profile/muhamad.agus.kurniawan/viz/Book1_16160296143110/Dashboard1">Covid-19 in Indonesia</a></p>
+<p style="font-size:20px"><a href="https://public.tableau.com/app/profile/muhamad.agus.kurniawan/viz/Book1_16160296143110/Dashboard1">Covid-19 in Indonesia</a></p>
 <img src="images/indonesian_covid.png?raw=true"/>
 
 ---
-<p style="font-size:17px"><a href="https://public.tableau.com/app/profile/muhamad.agus.kurniawan/viz/CropsOverview/Dashboard1">Crops in Indonesia</a></p>
+<p style="font-size:20px"><a href="https://public.tableau.com/app/profile/muhamad.agus.kurniawan/viz/CropsOverview/Dashboard1">Crops in Indonesia</a></p>
 <img src="images/Indonesia_crops.png?raw=true"/>
 
 ---
@@ -17,19 +17,16 @@
 <img src="images/covid_vaccination progress.png?raw=true"/>
 
 ---
-
 ## Data Analysis
 
-### <a href="https://github.com/agus2121/Covid-Analysis-in-Java"> Covid-19 Visualization in Java</a>
-<p style="font-size:15px">Melakukan eksplorasi dan visualisasi Data terkait perkeembangan COvid 19 di Pulau Jawa. Membubat beberapa visualisasi yang menggambarkan perkembangan kasus baru, jumlah kasus meninggal dan jumlah orah yang sembuh. Data yang saya gunakan dimulai Maret hingga Oktober 2020</p>
-  <img src="images/perkembangan pasien sembuh.jpeg?raw=True">
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+<p style="font-size:20px"><a href="https://github.com/agus2121/Covid-Analysis-in-Java"> Covid-19 Visualization in Java</a></p>
+<p style="font-size:15px">Melakukan eksplorasi dan visualisasi Data terkait perkeembangan Covid 19 di Pulau Jawa. Membubat beberapa visualisasi yang menggambarkan perkembangan kasus baru, jumlah kasus meninggal dan jumlah orah yang sembuh. Data yang saya gunakan dimulai Maret hingga Oktober 2020</p>
+<img src="images/perkembangan pasien sembuh.jpeg?raw=True">
+  
 ---
-
+<p style="font-size:20px"><a href="https://github.com/agus2121/Text-Classification---hotel-reviews"> Text Classification -- Hotel Review</a></p>
+<p style="font-size:15px">Melakukan Klasifikasi teks berdasarkan ulasan pelanggan terkait penginapan. Klasifikasi dilakukan untuk menentukan sentimen atau penilaian pelanggan tersebut memiliki makna yang positif atau negatif</p>
+<img src="images/wordcluod_after processing.jpg?raw=True">
 
 
 
