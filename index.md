@@ -1,8 +1,8 @@
-<h1>Portofolio</h1>
+# Portofolio
 
 ---
 
-<h2>Data Visualization (Tableau)</h2>
+## Data Visualization (Tableau)
 
 
 <p style="font-size:17px"><a href="https://public.tableau.com/app/profile/muhamad.agus.kurniawan/viz/Book1_16160296143110/Dashboard1">Covid-19 in Indonesia</a></p>
@@ -13,15 +13,15 @@
 <img src="images/Indonesia_crops.png?raw=true"/>
 
 ---
-<p style="font-size:17px"><a href="https://public.tableau.com/app/profile/muhamad.agus.kurniawan/viz/Book1_16160296143110/Dashboard1">Covid Vaccination Progress</a></p>
+<p style="font-size:20px"><a href="https://public.tableau.com/app/profile/muhamad.agus.kurniawan/viz/Book1_16160296143110/Dashboard1">Covid Vaccination Progress</a></p>
 <img src="images/covid_vaccination progress.png?raw=true"/>
 
 ---
 
-<h2>Data Analysis</h2>
+## Data Analysis
 
-<h3><a href="https://github.com/agus2121/Covid-Analysis-in-Java"> Covid-19 Visualization in Java</a></h3>
-<p style="font-size:12px">Melakukan eksplorasi dan visualisasi Data terkait perkeembangan COvid 19 di Pulau Jawa. Membubat beberapa visualisasi yang menggambarkan perkembangan kasus baru, jumlah kasus meninggal dan jumlah orah yang sembuh. Data yang saya gunakan dimulai Maret hingga Oktober 2020</p>
+### <a href="https://github.com/agus2121/Covid-Analysis-in-Java"> Covid-19 Visualization in Java</a>
+<p style="font-size:20px">Melakukan eksplorasi dan visualisasi Data terkait perkeembangan COvid 19 di Pulau Jawa. Membubat beberapa visualisasi yang menggambarkan perkembangan kasus baru, jumlah kasus meninggal dan jumlah orah yang sembuh. Data yang saya gunakan dimulai Maret hingga Oktober 2020</p>
   <img src="images/perkembangan pasien sembuh.jpeg?raw=True">
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
