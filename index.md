@@ -4,7 +4,7 @@
 
 ### Tableau
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](https://public.tableau.com/app/profile/muhamad.agus.kurniawan/viz/Book1_16160296143110/Dashboard1)
 <img src="images/indonesian_covid.png?raw=true"/>
 
 ---
