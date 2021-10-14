@@ -1,5 +1,5 @@
 title: Muhamad Agus Kurniawan # your name (or website title) here
-<img src="images/Foto_Fix.jpg?raw=true" width="170" height="300"> # your photo (or logo) here
+logo: "/images/Foto_Fix.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br></br>
