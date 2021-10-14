@@ -9,7 +9,7 @@
 
 ---
 [Crops in Indonesia](https://public.tableau.com/app/profile/muhamad.agus.kurniawan/viz/CropsOverview/Dashboard1)
-<img src="images/indonesia_crops1.png?raw=true"/>
+<img src="images/Indonesia_crops.png?raw=true"/>
 
 ---
 [Covid-19 Vaccination Progress](https://public.tableau.com/app/profile/muhamad.agus.kurniawan/viz/Book1_16160296143110/Dashboard1)
