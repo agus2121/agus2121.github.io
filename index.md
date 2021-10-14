@@ -18,11 +18,11 @@
 
 ---
 
-## Category Name 2
+<h2>Data Analysis<h2>
 
-- [Project 1 Title](http://example.com/)
-  
-  <p style="font-size:13px">
+- [Covid-19 Analysis in Java](https://github.com/agus2121/Covid-Analysis-in-Java)
+  <p style="font-size:15px"> Melakukan eksplorasi dan visualisasi Data terkait perkeembangan COvid 19 di Pulau Jawa. Membubat beberapa visualisasi yang menggambarkan perkembangan kasus baru, jumlah kasus meninggal dan jumlah orah yang sembuh. Data yang saya gunakan dimulai Maret hingga Oktober 2020.
+<img src="images/perkembangan pasien sembuh.jpeg?raw=True">
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
