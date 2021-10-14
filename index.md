@@ -31,7 +31,7 @@
 ---
 <p style="font-size:20px"><a href="https://github.com/agus2121/Clustering--PPKM-Tweet"> Text Clustering -- PPKM Tweet</a></p>
 <p style="font-size:15px">Melakukan klustering atau pengelompokan data terhadap tweet terkait PPKM. Tujuannya untuk mengetahui bagaimana gambaran besar opini masyarakat terhadap PPKM. 
-<img src="images/ppkm.jpg?raw=True>
+<img src="images/ppkm.jpg?raw=True">
 
 
 
