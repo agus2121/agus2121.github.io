@@ -3,9 +3,9 @@ logo: "/images/Foto_Fix.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br></br>
-  Check:
+  Check my Profile here:
   <br></br>
-  <a href="https://github.com/agus2121"><img src="images/github.png?raw=true" width="50" height="50"></a><a href="https://public.tableau.com/app/profile/muhamad.agus.kurniawan"><img src="images/linkedin1.png?raw=true" width="50" height="50"></a> 
+  <a href="https://github.com/agus2121"><img src="images/github.png?raw=true" width="50" height="50"></a><a href="https://public.tableau.com/app/profile/muhamad.agus.kurniawan"><img src="images/linkedin1.png?raw=true" width="50" height="80"></a> 
   
   
 theme: jekyll-theme-minimal
