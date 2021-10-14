@@ -4,7 +4,8 @@
 
 ## Data Visualization (Tableau)
 
-[Covid-19 in Indonesia](https://public.tableau.com/app/profile/muhamad.agus.kurniawan/viz/Book1_16160296143110/Dashboard1)
+
+<p style="font-size:15px"><a href="https://public.tableau.com/app/profile/muhamad.agus.kurniawan/viz/Book1_16160296143110/Dashboard1">Covid-19 in Indonesia</a></p>
 <img src="images/indonesian_covid.png?raw=true"/>
 
 ---
@@ -21,7 +22,7 @@
 
 - [Project 1 Title](http://example.com/)
   
-  ### asd                                                     
+  <p style="font-size:13px">
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
