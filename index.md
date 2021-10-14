@@ -30,11 +30,13 @@
 
 ---
 <p style="font-size:20px"><a href="https://github.com/agus2121/Clustering--PPKM-Tweet"> Text Clustering -- PPKM Tweet</a></p>
-<p style="font-size:15px">Melakukan klustering atau pengelompokan data terhadap tweet terkait PPKM. Tujuannya untuk mengetahui bagaimana gambaran besar opini masyarakat terhadap PPKM. 
+<p style="font-size:15px">Melakukan klustering atau pengelompokan data terhadap tweet terkait PPKM. Tujuannya untuk mengetahui bagaimana gambaran besar opini masyarakat terhadap PPKM. Data tweet yang saya peroleh yaitu tweet dari tanggal 27 September 2021 hingga 2 Oktober 2021 sebanyak 10000 tweet menggunakan Public Twitter API.
 <img src="images/ppkm.jpg?raw=True">
 
 
 
+  
+  
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
