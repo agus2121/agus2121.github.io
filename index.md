@@ -1,8 +1,8 @@
-# My Portofolio
+<h1>Portofolio</h1>
 
 ---
 
-## Data Visualization (Tableau)
+<h2>Data Visualization (Tableau)</h2>
 
 
 <p style="font-size:17px"><a href="https://public.tableau.com/app/profile/muhamad.agus.kurniawan/viz/Book1_16160296143110/Dashboard1">Covid-19 in Indonesia</a></p>
