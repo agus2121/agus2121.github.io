@@ -1,19 +1,19 @@
-# Portofolio
+# My Portofolio
 
 ---
 
 ## Data Visualization (Tableau)
 
 
-<p style="font-size:15px"><a href="https://public.tableau.com/app/profile/muhamad.agus.kurniawan/viz/Book1_16160296143110/Dashboard1">Covid-19 in Indonesia</a></p>
+<p style="font-size:17px"><a href="https://public.tableau.com/app/profile/muhamad.agus.kurniawan/viz/Book1_16160296143110/Dashboard1">Covid-19 in Indonesia</a></p>
 <img src="images/indonesian_covid.png?raw=true"/>
 
 ---
-[Crops in Indonesia](https://public.tableau.com/app/profile/muhamad.agus.kurniawan/viz/CropsOverview/Dashboard1)
+<p style="font-size:17px"><a href="https://public.tableau.com/app/profile/muhamad.agus.kurniawan/viz/CropsOverview/Dashboard1">Crops in Indonesia</a></p>
 <img src="images/Indonesia_crops.png?raw=true"/>
 
 ---
-[Covid-19 Vaccination Progress](https://public.tableau.com/app/profile/muhamad.agus.kurniawan/viz/Book1_16160296143110/Dashboard1)
+<p style="font-size:17px"><a href="https://public.tableau.com/app/profile/muhamad.agus.kurniawan/viz/Book1_16160296143110/Dashboard1">Covid Vaccination Progress</a></p>
 <img src="images/covid_vaccination progress.png?raw=true"/>
 
 ---
