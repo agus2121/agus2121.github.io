@@ -35,7 +35,8 @@
 
  ---
 <p style="font-size:20px"><a href="http://baseball-throw.herokuapp.com/"> Predicting Pitch in MLB</a></p>
-<p style="font-size:15px">Membuat WebApps bertujuan untuk memprediksi jenis lemparan yang akan di lempar berdasarkan variabel-variabel yang diketahui. Membuat permodelan menggunakan algoritma Random Forest CLassifier
+<p style="font-size:15px">Membuat WebApps bertujuan untuk memprediksi jenis lemparan yang akan di lempar berdasarkan variabel-variabel yang diketahui. Membuat permodelan menggunakan algoritma Random Forest Classifier. 
+<img src="images/webapps.jpg?raw=True">
 
   
   
