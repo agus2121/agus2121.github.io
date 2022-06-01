@@ -33,7 +33,7 @@
 <p style="font-size:15px">Melakukan klustering atau pengelompokan data terhadap tweet terkait PPKM. Tujuannya untuk mengetahui bagaimana gambaran besar opini masyarakat terhadap PPKM. Data tweet yang saya peroleh yaitu tweet dari tanggal 27 September 2021 hingga 2 Oktober 2021 sebanyak 10000 tweet menggunakan Public Twitter API.
 <img src="images/ppkm.jpg?raw=True">
 
----
+
 <p style="font-size:20px"><a href="http://baseball-throw.herokuapp.com/"> Predicting Pitch in MLB</a></p>
 <p style="font-size:15px">Membuat WebApps bertujuan untuk memprediksi jenis lemparan yang akan di lempar berdasarkan variabel-variabel yang diketahui. Membuat permodelan menggunakan algoritma Random Forest Classifier. 
 <img src="images/webapps.jpg?raw=True">
