@@ -18,7 +18,11 @@
 
 ---
 ## Data Analysis
+<p style="font-size:20px"><a href="[https://github.com/agus2121/Covid-Analysis-in-Java](https://muhamadagus2120.medium.com/data-driven-insights-pengaruh-kondisi-cuaca-terhadap-hasil-panen-jagung-c5854462aadf)"> Data-Driven Insights: Pengaruh Kondisi Cuaca Terhadap Hasil Panen Jagung</a></p>
+<p style="font-size:15px">Melakukan eksplorasi dan analisis data terkait pengaruh faktor cuaca yang mempengaruhi Yield Jagung dari tahun ke tahun</p>
+<img src="images/jagung_hasil-analisis.jpeg?raw=True">
 
+---
 <p style="font-size:20px"><a href="https://github.com/agus2121/Covid-Analysis-in-Java"> Covid-19 Visualization in Java</a></p>
 <p style="font-size:15px">Melakukan eksplorasi dan visualisasi Data terkait perkeembangan Covid 19 di Pulau Jawa. Membubat beberapa visualisasi yang menggambarkan perkembangan kasus baru, jumlah kasus meninggal dan jumlah orah yang sembuh. Data yang saya gunakan dimulai Maret hingga Oktober 2020</p>
 <img src="images/perkembangan pasien sembuh.jpeg?raw=True">
